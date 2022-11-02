@@ -1,0 +1,25 @@
+Day 1:
+
+Vcr1920!
+
+Link to download: https://github.com/AvinnaashGA/akademiga-js
+
+Instructor: Avinnaash
+
+To learn how is javascript work
+
+https://www.udemy.com/user/coltsteele/
+
+https://dash.generalassemb.ly/
+
+ctrl + shift + J = Open the console in chrome
+Ctrl + L = clean up the console
+
+shift + ! 
+shift + "
+shift + /
+
+
+Day 2:
+Object = dictionary
+
